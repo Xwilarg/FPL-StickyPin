@@ -1,0 +1,16 @@
+{
+    "name": "sticky-pin",
+    "displayName": "Sticky Pin",
+    "author": "Xwilarg",
+    "version": "1.0.0",
+    "launcherVersion": "9.0.0",
+    "description": "Display how much time you spent on a game",
+    "main": "./src/main.js",
+    "devDependencies": {
+        "typescript": "^4.2.3"
+    },
+    "dependencies": {
+        "ffi-napi": "^4.0.3",
+        "ref-napi": "^3.0.2"
+    }
+}
