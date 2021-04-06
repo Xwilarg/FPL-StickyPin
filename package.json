@@ -4,7 +4,7 @@
     "author": "Xwilarg",
     "version": "1.0.0",
     "launcherVersion": "9.0.0",
-    "description": "Display how much time you spent on a game",
+    "description": "Allow your game window to stay on top of everything",
     "main": "./src/main.js",
     "devDependencies": {
         "typescript": "^4.2.3"
